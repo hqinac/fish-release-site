@@ -1,0 +1,1 @@
+import{t as e}from"./FishManager-DZbD6hNs.js";var t=e(((e,t)=>{t.exports={}}));export default t();
